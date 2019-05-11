@@ -6,18 +6,18 @@ Note:
   - responsive-website_desktop.png is an example of how the layout should look on a screen that's at least 1024 pixels wide.
 
 
-  - [ ] **Create your file structure:**
+  - [X] **Create your file structure:**
 
-    - [ ] Create an index.html and styles.css file.
-    - [ ] Create a folder called css and put your styles.css file inside of it. The name of the folder should not be capitalized.
-    - [ ] Link the styles.css file to index.html
+    - [X] Create an index.html and styles.css file.
+    - [X] Create a folder called css and put your styles.css file inside of it. The name of the folder should not be capitalized.
+    - [X] Link the styles.css file to index.html
 
   - [ ] **Build the layout using a mobile first design:**
 
-    - [ ] Make sure the HTML file includes the viewport meta tag in the head of the document. See Configuring the Viewport to understand why and how to add this tag.
-    - [ ] Look at the provided mockup for the mobile device and add the same header, titles, content and footer information into your index.html file.
-    - [ ] Use the provided images for the portfolio gallery images shown in the mockups.
-    - [ ] Use a font from Google Fonts for the text.
+    - [X] Make sure the HTML file includes the viewport meta tag in the head of the document. See Configuring the Viewport to understand why and how to add this tag.
+    - [X] Look at the provided mockup for the mobile device and add the same header, titles, content and footer information into your index.html file.
+    - [x] Use the provided images for the portfolio gallery images shown in the mockups.
+    - [X] Use a font from Google Fonts for the text.
     - [ ] Use CSS to style your layout to match the provided mobile mockup. Make sure your mobile design matches the mockup at 320px screen size.
 
   - [ ] **Once you have everything in place for the mobile layout, use media queries to add breakpoints to adjust the layout for wider tablet and desktop screens.**
