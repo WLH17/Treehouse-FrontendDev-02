@@ -1,5 +1,10 @@
-﻿body {
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
     font-family: 'Roboto', sans-serif;
+    color: #A5A7AF;
 }
 
 h1, h2, h3, h4 {
@@ -8,11 +13,61 @@ h1, h2, h3, h4 {
     color: #4A4A4A;
 }
 
+.heading-student-name {
+    font-size: 24px;
+}
+
 header {
     text-align: center;
     background-color: #FAFAFA;
+    margin-bottom: 20px;
 }
 
+.navigation-list {
+    list-style: none;
+    padding:0;
+    width: 100%;
+}
 
-    
+.navigation-list-item {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:white;
+}
 
+.navigation-link {
+    text-decoration: none;
+    color: #504A4A;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.profile-image {
+    width: 60%;
+    margin: 20px;
+}
+
+p {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    font-size: 14px;
+}
+
+section {
+    display: block;
+    margin-top: 80px;
+    text-align:center;
+}
+
+.section-heading {
+    font-size: 16px;
+}
+
+.section-image {
+    width: 80%;
+    margin: 20px;
+}
