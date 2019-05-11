@@ -3,13 +3,13 @@
 }
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
     color: #A5A7AF;
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lato', sans-serif;
-    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
     color: #4A4A4A;
 }
 
@@ -39,10 +39,11 @@ header {
 }
 
 .navigation-link {
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: #504A4A;
-    font-weight: bold;
-    font-size: 16px;
+    font-weight: bolder;
+    font-size: 14px;
 }
 
 .profile-image {
@@ -51,10 +52,11 @@ header {
 }
 
 p {
-    width: 80%;
+    width: 85%;
     display: block;
     margin: 0 auto;
-    font-size: 14px;
+    font-size: 15px;
+    line-height: 1.5;
 }
 
 section {
@@ -64,10 +66,53 @@ section {
 }
 
 .section-heading {
-    font-size: 16px;
+    font-size: 14px;
+    margin-bottom: 40px;
+    font-weight: normal;
 }
 
-.section-image {
-    width: 80%;
-    margin: 20px;
+.portfolio-entry-heading {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
 }
+
+.portfolio-entry-image {
+    width: 85%;
+    margin: 0;
+}
+
+.portfolio-entry-text {
+    color: #4A4A4A;
+    margin-bottom: 25px;
+    width: 80%;
+}
+
+.important-information p {
+    line-height: 2;
+}
+
+.important-text {
+    font-weight: bold;
+}
+
+.important-label {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+footer {
+    display: flex;
+    color: #4A4A4A;
+    font-weight: bold;
+    font-size: 12px;
+    justify-content: space-between;
+    width: 85%;
+    margin: 80px auto 20px auto;
+}
+
+.backtotop-link {
+    text-decoration: none;
+    color: #4A4A4A;
+}
+
+

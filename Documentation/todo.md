@@ -18,7 +18,7 @@ Note:
     - [X] Look at the provided mockup for the mobile device and add the same header, titles, content and footer information into your index.html file.
     - [x] Use the provided images for the portfolio gallery images shown in the mockups.
     - [X] Use a font from Google Fonts for the text.
-    - [ ] Use CSS to style your layout to match the provided mobile mockup. Make sure your mobile design matches the mockup at 320px screen size.
+    - [X] Use CSS to style your layout to match the provided mobile mockup. Make sure your mobile design matches the mockup at 320px screen size.
 
   - [ ] **Once you have everything in place for the mobile layout, use media queries to add breakpoints to adjust the layout for wider tablet and desktop screens.**
 
