@@ -14,6 +14,7 @@ h1, h2, h3, h4 {
 }
 
 .heading-student-name {
+    padding-top: 6px;
     font-size: 24px;
 }
 
@@ -115,4 +116,122 @@ footer {
     color: #4A4A4A;
 }
 
+.footer-320 { display: block; }
+.footer-768 { display: none; }
 
+@media (min-width: 768px) { 
+    header {
+        padding-top: 35px;
+    }
+
+    .heading-student-name {
+        padding-top: 0px;
+        font-size: 25px;
+    }
+
+    .navigation-list {
+        margin-top: 35px;
+    }
+    
+    .navigation-list-item {
+        display: inline;
+        margin: 10px;
+    }    
+
+    .profile-image {
+        float : right;
+        margin-right: 30px;
+        width: 288px;
+        height: 180px;
+    }
+
+    .profile {
+        overflow: auto;
+        margin-top: 45px;
+    }
+
+    .profile p {
+        font-size: 20px;
+        margin: 20px;
+        margin-top: 15px;
+        text-align: left;
+    }
+
+    section {
+        margin-top: 85px;
+    }
+
+    .portfolio-entries {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        row-gap: 28px;
+        margin-left : 22px;
+        margin-right: 22px;
+    }
+
+    .portfolio-entry {
+        margin: 8px;
+        margin-bottom : 0px;
+    }
+
+    .portfolio-entry-image {
+        width: 100%;
+    }
+
+    #contact {
+        margin-top: 100px;
+    }
+
+    #contact p {
+        font-size: 21px;
+    }
+
+    .important-information {
+        margin-top: 23px;
+    }
+
+    .important-information p {
+        line-height: 2.2;
+    }
+
+    .footer-320 { display: none; }
+    .footer-768 { 
+        display: grid; 
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+    }
+
+    footer {
+        width: 95%;
+        margin-top: 5px;
+    }
+   
+    .footer-left {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .footer-navigation {
+        float:right;
+    }
+
+    .footer-navigation-list {
+        list-style: none;
+        padding:0;
+        width: 100%;
+    }
+    
+    .footer-navigation-list-item {
+        display: inline;
+        padding: 10px;
+        background-color:white;
+    }
+    
+    .footer-navigation-link {
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        color: #504A4A;
+        font-weight: bolder;
+        font-size: 12px;
+    }    
+}
