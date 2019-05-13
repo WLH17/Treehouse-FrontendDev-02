@@ -235,3 +235,76 @@ footer {
         font-size: 12px;
     }    
 }
+
+@media (min-width: 1024px) { 
+    body {
+        background-color: #FAFAFA;
+    }
+
+    header {
+        padding-left: 60px;
+        padding-right: 60px;
+        padding-bottom: 60px;
+    }
+
+    .nav-bar {
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .heading-student-name {
+        text-align: left;
+        font-size: 26px;
+    }
+
+    .navigation {
+        text-align: right;
+    }
+
+    .navigation-list {
+        margin-top: 27px;
+    }
+    
+    .navigation-list-item {
+        display: inline;
+        margin: 10px;
+        background-color: transparent;
+    }    
+
+    .navigation-list-item:last-child {
+        margin-right: 0px;
+        padding-right: 0px;
+    }
+
+    .profile-image {
+        float : right;
+        margin: 0px;
+        margin-top: 5px;
+        width: 369px;
+        height: 215px;
+    }
+
+    .profile p {
+        font-size: 20px;
+        margin: 0px;
+        text-align: left;
+    }
+
+    .profile {
+        overflow: auto;
+        margin-top: 35px;
+    }
+
+    section {
+        background-color: #FFFFFF;
+    }
+
+    .portfolio-entries {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 28px;
+        margin-left : 22px;
+        margin-right: 22px;
+    }
+
+}
