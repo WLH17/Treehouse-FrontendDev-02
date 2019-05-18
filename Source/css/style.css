@@ -299,12 +299,40 @@ footer {
         background-color: #FFFFFF;
     }
 
+    #portfolio {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+        padding-top: 40px;
+        width: 94%;
+    }
+
     .portfolio-entries {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        row-gap: 28px;
+        row-gap: 16px;
         margin-left : 22px;
         margin-right: 22px;
     }
 
+    #contact {
+        margin-top: 75px;
+    }
+
+    #contact .section-heading {
+        margin-bottom: 35px;
+    }
+
+    #contact p {
+        width: 55%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    footer {
+        margin-top: 70px;
+        margin-left: auto; 
+        margin-right: auto; 
+        width: 88%
+    }
 }
