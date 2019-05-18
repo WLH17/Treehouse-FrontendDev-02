@@ -116,7 +116,15 @@ footer {
     color: #4A4A4A;
 }
 
-.footer-320 { display: block; }
+.footer-320 { 
+    display: grid; 
+    grid-template-columns: 1fr 1fr;
+    width: 100%
+}
+
+.footer-right {
+    text-align:right;
+}
 .footer-768 { display: none; }
 
 @media (min-width: 768px) { 
