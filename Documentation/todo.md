@@ -44,10 +44,10 @@ Note:
 
 Some browser options:
 
-  - [ ] Google Chrome
-  - [ ] Mozilla Firefox
-  - [ ] Internet Explorer/Edge
-  - [ ] Safari
+  - [X] Google Chrome
+  - [X] Mozilla Firefox
+  - [X] Internet Explorer/Edge
+  - [X] Safari
 
 ## Extra
 
