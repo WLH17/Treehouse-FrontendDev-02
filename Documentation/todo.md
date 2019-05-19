@@ -33,12 +33,12 @@ Note:
 
   - [X] **Link your navigation menu to the correct sections of the page using IDs to link to anchor tags. See this video on Linking to Sections of a Web Page.**
 
-  - [ ] Make sure to check your code is valid by running it through an HTML and CSS validator.
-    - [ ] Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
-    - [ ] There are a few exceptions that you don’t need to fix:
-      - [ ] Don’t worry about any warnings, we just need you to check any errors that might be there.
-      - [ ] If CSS validator flags use of calc, vendor prefixes or pseudo-elements/pseudo-classes these errors should be ignored.
-      - [ ] If HTML validator flags use of pipe (‘|’) in Google font links/URLs this error can also be ignored.
+  - [X] Make sure to check your code is valid by running it through an HTML and CSS validator.
+    - X ] Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
+    - [X] There are a few exceptions that you don’t need to fix:
+      - [X] Don’t worry about any warnings, we just need you to check any errors that might be there.
+      - [X] If CSS validator flags use of calc, vendor prefixes or pseudo-elements/pseudo-classes these errors should be ignored.
+      - [X] If HTML validator flags use of pipe (‘|’) in Google font links/URLs this error can also be ignored.
 
 **NOTE: A good practice is to check your project for cross browser compatibility. Making sure that it looks and functions correctly in multiple (at least three) browsers is an important part of being a top-notch developer. If you want, leave a comment to the project reviewer about which browser(s) the project was checked to ensure they are seeing things as you have designed them.**
 
