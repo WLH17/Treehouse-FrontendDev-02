@@ -31,7 +31,7 @@ Note:
     - [X] The design does not need to be exact, but the general spacing and arrangement of the elements should match the design of the mockups for mobile, tablet and desktop.
     - [X] Feel free to replace the profile image and customize the text, but the layouts should match the mockups.
 
-  - [ ] **Link your navigation menu to the correct sections of the page using IDs to link to anchor tags. See this video on Linking to Sections of a Web Page.**
+  - [X] **Link your navigation menu to the correct sections of the page using IDs to link to anchor tags. See this video on Linking to Sections of a Web Page.**
 
   - [ ] Make sure to check your code is valid by running it through an HTML and CSS validator.
     - [ ] Links to the validators can be found in the Project Resources. This will help you spot any errors that might be in your code.
