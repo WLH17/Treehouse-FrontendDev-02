@@ -13,6 +13,11 @@ h1, h2, h3, h4 {
     color: #4A4A4A;
 }
 
+.emphasize {
+    color: red;
+    text-decoration: red underline;
+}
+
 .heading-student-name {
     padding-top: 6px;
     font-size: 24px;
@@ -39,6 +44,7 @@ header {
     background-color:white;
 }
 
+
 .navigation-link {
     font-family: 'Roboto', sans-serif;
     text-decoration: none;
@@ -46,6 +52,15 @@ header {
     font-weight: bolder;
     font-size: 14px;
 }
+
+a {
+    transition: all ease-in-out 200ms;
+}
+
+a:hover {
+    color: red;
+}
+
 
 .profile-image {
     width: 60%;

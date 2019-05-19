@@ -51,42 +51,42 @@ Some browser options:
 
 ## Extra
 
-  - [ ] Add an additional section to the page, such as a skills section. Don’t forget to create a working link to your new section in the navigation menu.
-  - [ ] Add at least TWO additional items to to further style and enhance the portfolio:
-      - [ ] A new background color for the navigation and/or main sections of the site.
-      - [ ] Change the color of at least one piece of text.
-      - [ ] Add one additional google font that is being used on the page.
-      - [ ] Any additional styling for links (ie, borders, hover states).
+  - [X] Add an additional section to the page, such as a skills section. Don’t forget to create a working link to your new section in the navigation menu.
+  - [X] Add at least TWO additional items to to further style and enhance the portfolio:
+      - [O] A new background color for the navigation and/or main sections of the site.
+      - [X] Change the color of at least one piece of text.
+      - [X] Add one additional google font that is being used on the page.
+      - [X] Any additional styling for links (ie, borders, hover states).
 
-  - [ ] When creating your navigation bar, use the HTML5 `<nav>` element for extra structure and semantic markup.
+  - [X] When creating your navigation bar, use the HTML5 `<nav>` element for extra structure and semantic markup.
 
 ## QA Check 
 
-  - [ ] Created folder structure 
-    - [ ] Project contains a stylesheet inside of a CSS folder. 
-  - [ ] Mobile-first design
-    - [ ] The HTML file includes the viewport meta tag in the head of the document.
-    - [ ] A mobile-first approach is utilized using min-width properties for media queries.
-    - [ ] Media queries are in place to match the screen sizes for:
-      - [ ] tablets at 768px
-      - [ ] desktop screens at 1024px
-  - [ ] Design and layout
-    - [ ] Matches layout of mockups. General spacing and arrangement of the elements matches the design of the mockups for:
-      - [ ] Mobile
-      - [ ] Tablet
-      - [ ] Desktop
-    - [ ] A Google Font is being used for the text.
+  - [X] Created folder structure 
+    - [X] Project contains a stylesheet inside of a CSS folder. 
+  - [X] Mobile-first design
+    - [X] The HTML file includes the viewport meta tag in the head of the document.
+    - [X] A mobile-first approach is utilized using min-width properties for media queries.
+    - [X] Media queries are in place to match the screen sizes for:
+      - [X] tablets at 768px
+      - [X] desktop screens at 1024px
+  - [X] Design and layout
+    - [X] Matches layout of mockups. General spacing and arrangement of the elements matches the design of the mockups for:
+      - [X] Mobile
+      - [X] Tablet
+      - [X] Desktop
+    - [X] A Google Font is being used for the text.
 
-    - [ ] (+) At least TWO of the following additional styling enhancements have been added to the portfolio:
-      - [ ] (+) A new background color or image for the navigation and/or main sections of the site.
-      - [ ] (+) The color of at least one piece of text has been changed.
-      - [ ] (+) One additional google font has been added, and is being used on the page.
-      - [ ] (+) Any additional styling for links has been added.
+    - [X] (+) At least TWO of the following additional styling enhancements have been added to the portfolio:
+      - [O] (+) A new background color or image for the navigation and/or main sections of the site.
+      - [X] (+) The color of at least one piece of text has been changed.
+      - [X] (+) One additional google font has been added, and is being used on the page.
+      - [X] (+) Any additional styling for links has been added.
 
-  - [ ] Navigation and sections
-    - [ ] The navigation menu items have working links to the different sections that use ID’s to link to relevant anchor tags.
-    - [ ] (+) The `<nav>` tag is being used for the navigation bar.
-    - [ ] (+) Additional section has been added to the page, such as a skills section, and a working link to the new section has been added to the navigation bar using an ID to link to anchor tag.
+  - [X] Navigation and sections
+    - [X] The navigation menu items have working links to the different sections that use ID’s to link to relevant anchor tags.
+    - [X] (+) The `<nav>` tag is being used for the navigation bar.
+    - [X] (+) Additional section has been added to the page, such as a skills section, and a working link to the new section has been added to the navigation bar using an ID to link to anchor tag.
 
-  - [ ] Valid code
-    - [ ] HTML and CSS code passes validation and/or only includes errors that are on the list of exceptions.
+  - [X] Valid code
+    - [X] HTML and CSS code passes validation and/or only includes errors that are on the list of exceptions.
